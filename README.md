@@ -219,4 +219,6 @@ This project is licensed under the [MIT License](/LICENSE)
 
 
 
-Update:  16.06.2025 05:46:36 Fixed broken external url
+
+
+Update:  17.06.2025 05:35 Social links
